@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+
+}
+
+
+.menu{
+    color: #000000;
+    font-family: "Roboto", sans-serif;
+}
+ 
+.button{
+    color: #FFFFFF;
+    background: linear-gradient(#FFE259, #FFA751);
+    border: 2px solid transparent;
+    font-size: 800!important;
+    font-family: "Roboto", sans-serif;
+}
+
+.main-heading{
+    font-family: "Roboto", sans-serif;
+}
+
+.button-2{
+    background: linear-gradient(#FF4E50, #F9D423);
+    border: 2px solid transparent;
+    font-size: 800!important;
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+
+}
+
+.main-pic{
+    width: 100%;
+}
+.hero{
+    background: linear-gradient(#FFEFBA, #FFFFFF);
+}
